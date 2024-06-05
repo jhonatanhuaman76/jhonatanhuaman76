@@ -5,7 +5,7 @@ Desarrollador Web
 -------------------------
 
 * 🌍  Vivo en Perú
-* ✉️  You can contact me at [jhonatanhuaman76@gmail.com](mailto:jhonatanhuaman76@gmail.com)
+* ✉️  Puedes contactar conmigo en [jhonatanhuaman76@gmail.com](mailto:jhonatanhuaman76@gmail.com)
 * 🧠  Estoy aprendiendo React
 * 🤝  Estoy abierto a colaborar en aplicaciones y páginas web
 
