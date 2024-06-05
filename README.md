@@ -11,19 +11,19 @@ Desarrollador Web
 
 ### Skills
 
-<p align="left" style="display: flex; gap: 20px; align-items: center;">
+<p align="left">
 
-<img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/7cf10fc2-7a64-464d-a639-f7b539e74f6e" height="36" alt="Java" />
+<img style="margin-right: 30px" src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/7cf10fc2-7a64-464d-a639-f7b539e74f6e" height="36" alt="Java" />
 
-<img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/026d2d3f-9a51-471d-b928-983ded6ce38b" height="36" alt="Bootstrap" />
+<img style="margin-right: 30px" src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/026d2d3f-9a51-471d-b928-983ded6ce38b" height="36" alt="Bootstrap" />
 
-<img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/4ac2b112-d31b-4b41-b92d-fefbbbd3840a" height="36" alt="HTML5" />
+<img style="margin-right: 30px" src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/4ac2b112-d31b-4b41-b92d-fefbbbd3840a" height="36" alt="HTML5" />
 
-<img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/0883e00c-681a-4f8a-a44f-805ef4fa7473" height="36" alt="CSS3" />
+<img style="margin-right: 30px" src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/0883e00c-681a-4f8a-a44f-805ef4fa7473" height="36" alt="CSS3" />
 
-<img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/b672c58a-45be-4a2b-9648-45c1ae31e5cb" height="36" alt="JavaScript" />
+<img style="margin-right: 30px" src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/b672c58a-45be-4a2b-9648-45c1ae31e5cb" height="36" alt="JavaScript" />
 
-<img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/27859e67-3ac9-4002-81c6-97730a6b86bc" height="36" alt="jQuery" />
+<img style="margin-right: 30px" src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/27859e67-3ac9-4002-81c6-97730a6b86bc" height="36" alt="jQuery" />
 
 </p>
 
