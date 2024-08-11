@@ -1,12 +1,12 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) soy Jhonatan Huaman
 ===========================================================================================================================================
 
-Desarrollador Web Front End React
+Desarrollador Web Front End Angular
 -------------------------
 
 * 🌍  Vivo en Perú
 * ✉️  Puedes contactar conmigo en [jhonatanhuaman76@gmail.com](mailto:jhonatanhuaman76@gmail.com)
-* 🧠  Estoy aprendiendo React
+* 🧠  Estoy aprendiendo Angular
 * 🤝  Estoy abierto a colaborar en aplicaciones y páginas web
 
 ### Habilidades
