@@ -14,7 +14,7 @@ Desarrollador Web Spring Boot y Angular - Junior
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/902c032b-124d-470c-8b6d-4c36acb683d2" height="36" alt="Spring Boot" />
+      <img src="https://github.com/user-attachments/assets/902c032b-124d-470c-8b6d-4c36acb683d2" height="36" alt="Spring Boot" /><br>
       <sub>Spring Boot</sub>
     </td>
     <td align="center">
