@@ -1,18 +1,22 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) soy Jhonatan Huaman
 ===========================================================================================================================================
 
-Desarrollador Web Angular y Java - Junior
+Desarrollador Web Spring Boot y Angular - Junior
 -------------------------
 
 * 🌍  Vivo en Perú
 * ✉️  Puedes contactar conmigo en [jhonatanhuaman76@gmail.com](mailto:jhonatanhuaman76@gmail.com)
-* 🧠  Estoy aprendiendo Angular
+* 🧠  Estoy aprendiendo Spring Boot y Angular
 * 🤝  Estoy abierto a colaborar en aplicaciones y páginas web
 
 ### Habilidades
 
 <table>
   <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/902c032b-124d-470c-8b6d-4c36acb683d2" height="36" alt="Spring Boot" />
+      <sub>Spring Boot</sub>
+    </td>
     <td align="center">
       <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/8d9d491e-2213-4cd7-9ef3-5f125892074b" height="36" alt="Java" /><br>
       <sub>Java</sub>
