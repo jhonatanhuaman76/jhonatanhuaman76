@@ -7,7 +7,7 @@ Desarrollador Full Stack Web Junior
 * 🌍  Vivo en Perú
 * ✉️  Puedes contactar conmigo en [jhonatanhuaman76@gmail.com](mailto:jhonatanhuaman76@gmail.com)
 * 🧠  Continúo aprendiendo
-* 🤝  Estoy abierto a colaborar en aplicaciones y páginas web
+* 🤝  Abierto a colaboraciones
 
 ### Habilidades
 
@@ -36,6 +36,10 @@ Desarrollador Full Stack Web Junior
     <td align="center">
       <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/b672c58a-45be-4a2b-9648-45c1ae31e5cb" height="36" alt="JavaScript" /><br>
       <sub>JavaScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="Angular" /><br>
+      <sub>Angular</sub>
     </td>
     <td align="center">
       <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="jQuery" /><br>
