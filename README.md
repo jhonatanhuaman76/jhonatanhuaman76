@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) soy Jhonatan Huaman
 ===========================================================================================================================================
 
-Desarrollador Full Stack Web Junior
+Desarrollador Web & Mobile | Backend: Spring Boot, C# | Frontend: Angular, Android | Base de datos:  MySQL, SQL Server
 -------------------------
 
 * 🌍  Vivo en Perú
@@ -38,7 +38,7 @@ Desarrollador Full Stack Web Junior
       <sub>JavaScript</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="Angular" /><br>
+      <img src="https://github.com/user-attachments/assets/f5b4d856-cc8f-4139-a1c0-1c65c1e42986" height="36" alt="Angular" /><br>
       <sub>Angular</sub>
     </td>
     <td align="center">
@@ -46,16 +46,20 @@ Desarrollador Full Stack Web Junior
       <sub>jQuery</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="C#" /><br>
+      <img src="https://github.com/user-attachments/assets/6b36eb2a-e39d-463e-a429-14ebd3814986" height="36" alt="C#" /><br>
       <sub>C#</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="MySQL" /><br>
+      <img src="https://github.com/user-attachments/assets/a6a9fee6-b351-48e3-bcb4-adb7fb39c147" height="36" alt="MySQL" /><br>
       <sub>MySQL</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="SQL Server" /><br>
+      <img src="https://github.com/user-attachments/assets/d78f52cd-2fee-42b3-bdc7-4d625abf04e0" height="36" alt="SQL Server" /><br>
       <sub>SQL Server</sub>
+    </td>
+     <td align="center">
+      <img src="https://github.com/user-attachments/assets/bc180f61-4778-43d6-a359-22fb563142b1" height="36" alt="Android" /><br>
+      <sub>Android</sub>
     </td>
   </tr>
 </table>
