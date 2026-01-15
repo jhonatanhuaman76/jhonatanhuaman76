@@ -1,12 +1,12 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) soy Jhonatan Huaman
 ===========================================================================================================================================
 
-Desarrollador Web Spring Boot y Angular - Junior
+Desarrollador Full Stack Web Junior
 -------------------------
 
 * 🌍  Vivo en Perú
 * ✉️  Puedes contactar conmigo en [jhonatanhuaman76@gmail.com](mailto:jhonatanhuaman76@gmail.com)
-* 🧠  Estoy aprendiendo Spring Boot y Angular
+* 🧠  Continúo aprendiendo
 * 🤝  Estoy abierto a colaborar en aplicaciones y páginas web
 
 ### Habilidades
@@ -40,6 +40,18 @@ Desarrollador Web Spring Boot y Angular - Junior
     <td align="center">
       <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="jQuery" /><br>
       <sub>jQuery</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="C#" /><br>
+      <sub>C#</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="MySQL" /><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/e2769796-ea30-4f08-9a58-90df8d3e19bf" height="36" alt="SQL Server" /><br>
+      <sub>SQL Server</sub>
     </td>
   </tr>
 </table>
